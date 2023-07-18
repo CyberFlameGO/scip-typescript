@@ -2299,10 +2299,10 @@ pluralize@^8.0.0:
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-8.0.0.tgz#1a6fa16a38d12a1901e0320fa017051c539ce3b1"
   integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
 
-pnpm@7.20.0:
-  version "7.20.0"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.20.0.tgz#fa5c9d347852e9ce1e98abe7f6636c3a78f710bb"
-  integrity sha512-klGp+P0sxw1f6OYwJtl0PcoYiIHVhMZdh9e2B8maUmzOGmAj0NL9jKaKPfIX4kKfyQcWeADm46Z+4CKtabZqSw==
+pnpm@7.33.5:
+  version "7.33.5"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-7.33.5.tgz#63954301fc368bebca4e42f81db5117b569a7385"
+  integrity sha512-TkmfIv/+WEWqj5Rj4ThrLXLDE04OvvlAk2CthE/vApDoK0ebMusuwPMOVmB+GCDCIWeCn9YmVtQaj9DMSg9CZw==
 
 prelude-ls@^1.2.1:
   version "1.2.1"
